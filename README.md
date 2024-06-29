@@ -16,7 +16,10 @@
 
 <ul>
             <li>🌱 <b>I’m currently learning</b>: Web Develpoment.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://TharinduNishshanka.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li></ul>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://TharinduNishshanka.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li> <b>📫 How to reach me **tharindunishshanka21@gmail.com**</li>
+
+</ul>
  <div align=center>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=TharinduNishshanka&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
